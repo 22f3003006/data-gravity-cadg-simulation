@@ -1,6 +1,6 @@
 # Carbon-Aware Data Gravity (CADG) — Simulation Code
 
-Reproducibility code for *"Data Gravity in Multi-Cloud Architecture: A Green Computing Perspective"* (Malhotra, Anand, Joshi 2026).
+Reproducibility code for *"Data Gravity in Multi-Cloud Architecture: A Green Computing Perspective"* (Anand, Joshi, Mehta 2026).
 
 ## Files
 
